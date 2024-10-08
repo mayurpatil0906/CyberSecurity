@@ -1,0 +1,821 @@
+2024-10-01 14:34:25,886 - [PROCESS MONITOR] - Monitoring system processes for suspicious activity...
+2024-10-01 14:34:29,231 - [PROCESS MONITOR] - No suspicious processes detected.
+2024-10-01 14:34:32,140 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:34:32,141 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1549.6%, Memory: 4.866997135772186e-05%
+2024-10-01 14:34:32,142 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:34:35,238 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:34:35,239 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1553.9%, Memory: 4.866997135772186e-05%
+2024-10-01 14:34:35,239 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:34:38,162 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:34:38,163 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1547.9%, Memory: 4.866997135772186e-05%
+2024-10-01 14:34:38,163 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:34:41,028 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:34:41,030 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1556.6%, Memory: 4.866997135772186e-05%
+2024-10-01 14:34:41,030 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:34:43,900 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:34:43,901 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1571.2%, Memory: 4.866997135772186e-05%
+2024-10-01 14:34:43,902 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:34:46,742 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:34:46,744 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1553.3%, Memory: 4.866997135772186e-05%
+2024-10-01 14:34:46,744 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:34:49,718 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:34:49,719 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1566.3%, Memory: 4.866997135772186e-05%
+2024-10-01 14:34:49,719 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:34:52,592 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:34:52,593 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1576.7%, Memory: 4.866997135772186e-05%
+2024-10-01 14:34:52,593 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:34:55,478 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:34:55,479 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1560.9%, Memory: 4.866997135772186e-05%
+2024-10-01 14:34:55,480 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:34:58,336 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:34:58,337 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1563.6%, Memory: 4.866997135772186e-05%
+2024-10-01 14:34:58,337 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:35:01,278 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:35:01,280 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1582.3%, Memory: 4.866997135772186e-05%
+2024-10-01 14:35:01,281 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:35:04,265 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:35:04,266 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1508.5%, Memory: 4.866997135772186e-05%
+2024-10-01 14:35:04,266 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:35:07,201 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:35:07,202 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1551.0%, Memory: 4.866997135772186e-05%
+2024-10-01 14:35:07,202 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:35:10,137 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:35:10,138 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1547.6%, Memory: 4.866997135772186e-05%
+2024-10-01 14:35:10,138 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:35:13,124 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:35:13,125 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1552.9%, Memory: 4.866997135772186e-05%
+2024-10-01 14:35:13,126 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:35:16,690 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:35:16,693 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1526.4%, Memory: 4.866997135772186e-05%
+2024-10-01 14:35:16,693 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:35:20,206 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:35:20,207 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1542.0%, Memory: 4.866997135772186e-05%
+2024-10-01 14:35:20,208 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:35:23,726 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:35:23,728 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1533.6%, Memory: 4.866997135772186e-05%
+2024-10-01 14:35:23,729 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:35:27,253 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:35:27,255 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1551.4%, Memory: 4.866997135772186e-05%
+2024-10-01 14:35:27,255 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:35:30,783 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:35:30,784 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1543.9%, Memory: 4.866997135772186e-05%
+2024-10-01 14:35:30,785 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:35:34,243 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:35:34,245 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1552.7%, Memory: 4.866997135772186e-05%
+2024-10-01 14:35:34,246 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:35:37,688 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:35:37,690 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1549.9%, Memory: 4.866997135772186e-05%
+2024-10-01 14:35:37,692 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:35:41,151 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:35:41,153 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1562.0%, Memory: 4.866997135772186e-05%
+2024-10-01 14:35:41,155 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:35:44,587 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:35:44,588 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1553.9%, Memory: 4.866997135772186e-05%
+2024-10-01 14:35:44,590 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:35:48,049 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:35:48,051 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1537.0%, Memory: 4.866997135772186e-05%
+2024-10-01 14:35:48,052 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:35:51,487 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:35:51,488 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1551.2%, Memory: 4.866997135772186e-05%
+2024-10-01 14:35:51,490 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:35:54,942 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:35:54,944 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1558.4%, Memory: 4.866997135772186e-05%
+2024-10-01 14:35:54,945 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:35:58,387 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:35:58,389 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1567.5%, Memory: 4.866997135772186e-05%
+2024-10-01 14:35:58,390 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:36:01,869 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:36:01,871 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1572.5%, Memory: 4.866997135772186e-05%
+2024-10-01 14:36:01,873 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:36:05,306 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:36:05,307 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1547.7%, Memory: 4.866997135772186e-05%
+2024-10-01 14:36:05,309 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:36:08,749 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:36:08,751 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1561.1%, Memory: 4.866997135772186e-05%
+2024-10-01 14:36:08,752 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:36:12,193 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:36:12,194 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1569.8%, Memory: 4.866997135772186e-05%
+2024-10-01 14:36:12,196 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:36:15,621 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:36:15,623 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1555.7%, Memory: 4.866997135772186e-05%
+2024-10-01 14:36:15,624 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:36:19,052 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:36:19,054 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1570.3%, Memory: 4.866997135772186e-05%
+2024-10-01 14:36:19,055 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:36:22,502 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:36:22,504 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1539.8%, Memory: 4.866997135772186e-05%
+2024-10-01 14:36:22,506 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:36:25,955 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:36:25,957 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1573.4%, Memory: 4.866997135772186e-05%
+2024-10-01 14:36:25,958 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:36:29,419 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:36:29,421 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1566.6%, Memory: 4.866997135772186e-05%
+2024-10-01 14:36:29,422 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:36:32,879 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:36:32,881 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1563.0%, Memory: 4.866997135772186e-05%
+2024-10-01 14:36:32,882 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:36:36,340 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:36:36,342 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1553.5%, Memory: 4.866997135772186e-05%
+2024-10-01 14:36:36,343 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:36:39,889 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:36:39,890 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1573.8%, Memory: 4.866997135772186e-05%
+2024-10-01 14:36:39,892 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:36:43,385 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:36:43,387 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1536.2%, Memory: 4.866997135772186e-05%
+2024-10-01 14:36:43,388 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:36:46,910 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:36:46,912 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1565.2%, Memory: 4.866997135772186e-05%
+2024-10-01 14:36:46,913 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:36:50,394 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:36:50,396 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1544.4%, Memory: 4.866997135772186e-05%
+2024-10-01 14:36:50,397 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:36:53,820 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:36:53,822 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1557.1%, Memory: 4.866997135772186e-05%
+2024-10-01 14:36:53,823 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:36:57,323 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:36:57,324 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1554.3%, Memory: 4.866997135772186e-05%
+2024-10-01 14:36:57,325 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:37:00,942 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:37:00,945 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1542.0%, Memory: 4.866997135772186e-05%
+2024-10-01 14:37:00,945 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:37:04,368 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:37:04,370 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1543.5%, Memory: 4.866997135772186e-05%
+2024-10-01 14:37:04,371 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:37:07,809 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:37:07,811 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1575.7%, Memory: 4.866997135772186e-05%
+2024-10-01 14:37:07,812 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:37:11,421 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:37:11,422 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1557.5%, Memory: 4.866997135772186e-05%
+2024-10-01 14:37:11,423 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:37:14,962 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:37:14,964 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1548.6%, Memory: 4.866997135772186e-05%
+2024-10-01 14:37:14,966 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:37:18,587 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:37:18,588 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1551.5%, Memory: 4.866997135772186e-05%
+2024-10-01 14:37:18,590 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:37:22,139 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:37:22,140 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1534.5%, Memory: 4.866997135772186e-05%
+2024-10-01 14:37:22,142 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:37:25,683 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:37:25,685 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1565.1%, Memory: 4.866997135772186e-05%
+2024-10-01 14:37:25,687 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:37:29,208 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:37:29,210 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1547.1%, Memory: 4.866997135772186e-05%
+2024-10-01 14:37:29,211 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:37:32,656 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:37:32,658 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1547.5%, Memory: 4.866997135772186e-05%
+2024-10-01 14:37:32,659 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:37:36,181 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:37:36,182 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1548.0%, Memory: 4.866997135772186e-05%
+2024-10-01 14:37:36,184 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:37:39,751 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:37:39,753 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1508.7%, Memory: 4.866997135772186e-05%
+2024-10-01 14:37:39,754 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:37:42,599 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:37:42,601 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1564.3%, Memory: 4.866997135772186e-05%
+2024-10-01 14:37:42,602 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:37:45,452 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:37:45,453 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1566.3%, Memory: 4.866997135772186e-05%
+2024-10-01 14:37:45,453 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:37:48,295 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:37:48,296 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1551.0%, Memory: 4.866997135772186e-05%
+2024-10-01 14:37:48,297 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:37:51,202 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:37:51,202 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1548.2%, Memory: 4.866997135772186e-05%
+2024-10-01 14:37:51,203 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:37:54,002 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:37:54,003 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1566.8%, Memory: 4.866997135772186e-05%
+2024-10-01 14:37:54,004 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:37:56,905 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:37:56,906 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1550.8%, Memory: 4.866997135772186e-05%
+2024-10-01 14:37:56,906 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:38:00,388 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:38:00,390 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1557.7%, Memory: 4.866997135772186e-05%
+2024-10-01 14:38:00,392 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:38:03,825 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:38:03,826 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1551.3%, Memory: 4.866997135772186e-05%
+2024-10-01 14:38:03,827 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:38:07,286 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:38:07,287 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1555.7%, Memory: 4.866997135772186e-05%
+2024-10-01 14:38:07,289 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:38:10,673 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:38:10,674 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1539.1%, Memory: 4.866997135772186e-05%
+2024-10-01 14:38:10,675 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:38:13,974 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:38:13,976 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1566.2%, Memory: 4.866997135772186e-05%
+2024-10-01 14:38:13,977 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:38:17,479 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:38:17,481 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1542.7%, Memory: 4.866997135772186e-05%
+2024-10-01 14:38:17,482 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:38:20,781 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:38:20,783 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1564.7%, Memory: 4.866997135772186e-05%
+2024-10-01 14:38:20,784 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:38:24,237 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:38:24,239 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1539.8%, Memory: 4.866997135772186e-05%
+2024-10-01 14:38:24,240 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:38:27,657 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:38:27,659 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1558.4%, Memory: 4.866997135772186e-05%
+2024-10-01 14:38:27,661 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:38:31,070 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:38:31,071 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1565.7%, Memory: 4.866997135772186e-05%
+2024-10-01 14:38:31,073 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:38:34,345 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:38:34,347 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1541.0%, Memory: 4.866997135772186e-05%
+2024-10-01 14:38:34,349 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:38:37,635 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:38:37,636 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1560.1%, Memory: 4.866997135772186e-05%
+2024-10-01 14:38:37,637 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:38:40,930 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:38:40,932 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1564.4%, Memory: 4.866997135772186e-05%
+2024-10-01 14:38:40,933 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:38:44,356 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:38:44,358 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1568.2%, Memory: 4.866997135772186e-05%
+2024-10-01 14:38:44,359 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:38:47,790 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:38:47,792 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1539.7%, Memory: 4.866997135772186e-05%
+2024-10-01 14:38:47,793 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:38:51,298 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:38:51,299 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1553.9%, Memory: 4.866997135772186e-05%
+2024-10-01 14:38:51,300 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:38:54,784 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:38:54,786 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1554.9%, Memory: 4.866997135772186e-05%
+2024-10-01 14:38:54,787 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:38:58,281 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:38:58,283 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1560.7%, Memory: 4.866997135772186e-05%
+2024-10-01 14:38:58,284 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:39:01,659 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:39:01,661 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1547.8%, Memory: 4.866997135772186e-05%
+2024-10-01 14:39:01,662 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:39:05,228 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:39:05,230 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1550.9%, Memory: 4.866997135772186e-05%
+2024-10-01 14:39:05,231 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:39:08,742 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:39:08,744 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1566.9%, Memory: 4.866997135772186e-05%
+2024-10-01 14:39:08,745 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:39:12,234 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:39:12,235 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1565.6%, Memory: 4.866997135772186e-05%
+2024-10-01 14:39:12,236 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:39:15,680 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:39:15,681 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1548.2%, Memory: 4.866997135772186e-05%
+2024-10-01 14:39:15,682 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:39:19,102 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:39:19,104 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1553.9%, Memory: 4.866997135772186e-05%
+2024-10-01 14:39:19,105 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:39:22,571 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:39:22,573 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1555.2%, Memory: 4.866997135772186e-05%
+2024-10-01 14:39:22,574 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:39:26,186 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:39:26,189 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1520.6%, Memory: 4.866997135772186e-05%
+2024-10-01 14:39:26,190 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:39:29,642 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:39:29,645 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1540.4%, Memory: 4.866997135772186e-05%
+2024-10-01 14:39:29,645 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:39:33,151 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:39:33,152 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1546.3%, Memory: 4.866997135772186e-05%
+2024-10-01 14:39:33,153 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:39:36,579 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:39:36,580 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1558.5%, Memory: 4.866997135772186e-05%
+2024-10-01 14:39:36,582 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:39:39,927 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:39:39,928 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1564.3%, Memory: 4.866997135772186e-05%
+2024-10-01 14:39:39,930 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:39:43,340 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:39:43,342 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1542.5%, Memory: 4.866997135772186e-05%
+2024-10-01 14:39:43,343 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:39:46,648 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:39:46,650 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1572.6%, Memory: 4.866997135772186e-05%
+2024-10-01 14:39:46,651 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:39:50,142 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:39:50,143 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1535.1%, Memory: 4.866997135772186e-05%
+2024-10-01 14:39:50,145 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:39:53,502 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:39:53,504 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1553.5%, Memory: 4.866997135772186e-05%
+2024-10-01 14:39:53,505 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:39:57,101 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:39:57,103 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1558.3%, Memory: 4.866997135772186e-05%
+2024-10-01 14:39:57,105 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:40:00,583 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:40:00,585 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1563.4%, Memory: 4.866997135772186e-05%
+2024-10-01 14:40:00,586 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:40:04,163 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:40:04,165 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1554.9%, Memory: 4.866997135772186e-05%
+2024-10-01 14:40:04,166 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:40:07,602 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:40:07,603 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1518.8%, Memory: 4.866997135772186e-05%
+2024-10-01 14:40:07,605 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:40:11,113 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:40:11,115 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1571.1%, Memory: 4.866997135772186e-05%
+2024-10-01 14:40:11,117 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:40:14,425 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:40:14,426 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1558.5%, Memory: 4.866997135772186e-05%
+2024-10-01 14:40:14,428 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:40:17,763 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:40:17,765 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1555.4%, Memory: 4.866997135772186e-05%
+2024-10-01 14:40:17,767 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:40:21,189 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:40:21,190 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1554.1%, Memory: 4.866997135772186e-05%
+2024-10-01 14:40:21,191 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:40:24,604 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:40:24,606 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1556.1%, Memory: 4.866997135772186e-05%
+2024-10-01 14:40:24,607 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:40:28,041 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:40:28,043 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1567.1%, Memory: 4.866997135772186e-05%
+2024-10-01 14:40:28,045 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:40:31,618 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:40:31,620 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1551.6%, Memory: 4.866997135772186e-05%
+2024-10-01 14:40:31,622 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:40:35,211 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:40:35,213 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1529.3%, Memory: 4.866997135772186e-05%
+2024-10-01 14:40:35,214 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:40:38,664 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:40:38,665 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1555.1%, Memory: 4.866997135772186e-05%
+2024-10-01 14:40:38,667 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:40:42,193 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:40:42,194 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1563.0%, Memory: 4.866997135772186e-05%
+2024-10-01 14:40:42,195 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:40:45,700 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:40:45,701 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1557.6%, Memory: 4.866997135772186e-05%
+2024-10-01 14:40:45,702 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:40:49,173 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:40:49,175 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1564.7%, Memory: 4.866997135772186e-05%
+2024-10-01 14:40:49,177 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:40:52,669 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:40:52,671 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1561.2%, Memory: 4.866997135772186e-05%
+2024-10-01 14:40:52,672 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:40:56,158 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:40:56,160 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1566.1%, Memory: 4.866997135772186e-05%
+2024-10-01 14:40:56,161 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:40:59,652 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:40:59,654 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1547.3%, Memory: 4.866997135772186e-05%
+2024-10-01 14:40:59,655 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:41:03,145 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:41:03,146 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1565.6%, Memory: 4.866997135772186e-05%
+2024-10-01 14:41:03,147 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:41:06,628 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:41:06,630 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1561.2%, Memory: 4.866997135772186e-05%
+2024-10-01 14:41:06,631 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:41:10,101 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:41:10,103 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1549.9%, Memory: 4.866997135772186e-05%
+2024-10-01 14:41:10,104 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:41:13,605 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:41:13,607 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1566.1%, Memory: 4.866997135772186e-05%
+2024-10-01 14:41:13,608 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:41:17,148 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:41:17,150 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1561.2%, Memory: 4.866997135772186e-05%
+2024-10-01 14:41:17,151 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:41:20,643 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:41:20,645 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1540.5%, Memory: 4.866997135772186e-05%
+2024-10-01 14:41:20,646 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:41:24,270 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:41:24,272 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1534.8%, Memory: 4.866997135772186e-05%
+2024-10-01 14:41:24,273 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:41:27,930 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:41:27,931 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1555.2%, Memory: 4.866997135772186e-05%
+2024-10-01 14:41:27,933 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:41:31,426 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:41:31,428 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1555.2%, Memory: 4.866997135772186e-05%
+2024-10-01 14:41:31,429 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:41:34,921 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:41:34,923 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1561.6%, Memory: 4.866997135772186e-05%
+2024-10-01 14:41:34,924 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:41:38,414 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:41:38,417 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1554.5%, Memory: 4.866997135772186e-05%
+2024-10-01 14:41:38,418 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:41:41,887 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:41:41,889 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1568.8%, Memory: 4.866997135772186e-05%
+2024-10-01 14:41:41,890 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:41:45,384 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:41:45,386 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1559.8%, Memory: 4.866997135772186e-05%
+2024-10-01 14:41:45,388 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:41:48,884 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:41:48,886 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1570.6%, Memory: 4.866997135772186e-05%
+2024-10-01 14:41:48,888 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:41:52,307 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:41:52,310 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1553.6%, Memory: 4.866997135772186e-05%
+2024-10-01 14:41:52,311 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:41:55,803 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:41:55,805 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1546.1%, Memory: 4.866997135772186e-05%
+2024-10-01 14:41:55,806 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:41:59,448 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:41:59,451 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1548.7%, Memory: 4.866997135772186e-05%
+2024-10-01 14:41:59,452 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:42:03,049 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:42:03,050 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1553.5%, Memory: 4.866997135772186e-05%
+2024-10-01 14:42:03,051 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:42:06,537 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:42:06,538 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1564.2%, Memory: 4.866997135772186e-05%
+2024-10-01 14:42:06,540 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:42:10,000 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:42:10,002 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1555.4%, Memory: 4.866997135772186e-05%
+2024-10-01 14:42:10,003 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:42:13,483 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:42:13,485 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1559.8%, Memory: 4.866997135772186e-05%
+2024-10-01 14:42:13,486 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:42:17,031 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:42:17,034 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1571.1%, Memory: 4.866997135772186e-05%
+2024-10-01 14:42:17,035 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:42:20,501 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:42:20,503 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1552.4%, Memory: 4.866997135772186e-05%
+2024-10-01 14:42:20,504 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:42:23,980 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:42:23,982 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1567.5%, Memory: 4.866997135772186e-05%
+2024-10-01 14:42:23,983 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:42:27,543 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:42:27,545 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1554.4%, Memory: 4.866997135772186e-05%
+2024-10-01 14:42:27,547 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:42:31,065 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:42:31,066 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1557.2%, Memory: 4.866997135772186e-05%
+2024-10-01 14:42:31,068 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:42:34,513 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:42:34,515 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1549.2%, Memory: 4.866997135772186e-05%
+2024-10-01 14:42:34,516 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:42:38,036 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:42:38,037 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1558.9%, Memory: 4.866997135772186e-05%
+2024-10-01 14:42:38,038 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:42:41,523 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:42:41,525 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1549.2%, Memory: 4.866997135772186e-05%
+2024-10-01 14:42:41,526 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:42:45,024 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:42:45,026 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1567.4%, Memory: 4.866997135772186e-05%
+2024-10-01 14:42:45,028 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:42:48,488 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:42:48,489 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1558.5%, Memory: 4.866997135772186e-05%
+2024-10-01 14:42:48,491 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:42:51,955 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:42:51,957 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1549.4%, Memory: 4.866997135772186e-05%
+2024-10-01 14:42:51,959 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:42:55,453 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:42:55,454 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1571.1%, Memory: 4.866997135772186e-05%
+2024-10-01 14:42:55,456 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:42:58,905 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:42:58,907 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1548.7%, Memory: 4.866997135772186e-05%
+2024-10-01 14:42:58,908 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:43:02,427 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:43:02,429 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1552.2%, Memory: 4.866997135772186e-05%
+2024-10-01 14:43:02,430 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:43:05,887 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:43:05,889 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1556.2%, Memory: 4.866997135772186e-05%
+2024-10-01 14:43:05,890 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:43:09,376 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:43:09,377 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1570.2%, Memory: 4.866997135772186e-05%
+2024-10-01 14:43:09,378 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:43:12,796 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:43:12,797 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1551.7%, Memory: 4.866997135772186e-05%
+2024-10-01 14:43:12,798 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:43:16,258 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:43:16,260 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1558.4%, Memory: 4.866997135772186e-05%
+2024-10-01 14:43:16,260 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:43:19,719 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:43:19,721 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1559.3%, Memory: 4.866997135772186e-05%
+2024-10-01 14:43:19,722 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:43:23,208 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:43:23,210 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1557.1%, Memory: 4.866997135772186e-05%
+2024-10-01 14:43:23,211 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:43:26,761 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:43:26,763 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1557.6%, Memory: 4.866997135772186e-05%
+2024-10-01 14:43:26,764 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:43:30,285 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:43:30,286 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1557.2%, Memory: 4.866997135772186e-05%
+2024-10-01 14:43:30,287 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:43:33,746 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:43:33,747 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1553.6%, Memory: 4.866997135772186e-05%
+2024-10-01 14:43:33,749 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:43:37,211 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:43:37,213 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1566.6%, Memory: 4.866997135772186e-05%
+2024-10-01 14:43:37,215 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:43:40,797 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:43:40,799 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1559.8%, Memory: 4.866997135772186e-05%
+2024-10-01 14:43:40,800 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:43:44,353 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:43:44,355 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1567.3%, Memory: 4.866997135772186e-05%
+2024-10-01 14:43:44,357 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:43:47,851 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:43:47,853 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1533.6%, Memory: 4.866997135772186e-05%
+2024-10-01 14:43:47,854 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:43:51,363 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:43:51,365 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1550.9%, Memory: 4.866997135772186e-05%
+2024-10-01 14:43:51,367 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:43:54,767 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:43:54,769 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1545.2%, Memory: 4.866997135772186e-05%
+2024-10-01 14:43:54,771 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:43:58,240 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:43:58,242 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1555.2%, Memory: 4.866997135772186e-05%
+2024-10-01 14:43:58,243 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:44:01,810 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:44:01,812 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1559.8%, Memory: 4.866997135772186e-05%
+2024-10-01 14:44:01,813 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:44:05,347 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:44:05,349 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1565.1%, Memory: 4.866997135772186e-05%
+2024-10-01 14:44:05,350 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:44:08,777 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:44:08,779 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1541.8%, Memory: 4.866997135772186e-05%
+2024-10-01 14:44:08,781 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:44:12,271 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:44:12,272 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1565.2%, Memory: 4.866997135772186e-05%
+2024-10-01 14:44:12,273 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:44:15,745 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:44:15,747 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1552.7%, Memory: 4.866997135772186e-05%
+2024-10-01 14:44:15,748 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:44:19,216 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:44:19,218 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1564.8%, Memory: 4.866997135772186e-05%
+2024-10-01 14:44:19,219 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:44:22,832 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:44:22,834 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1542.7%, Memory: 4.866997135772186e-05%
+2024-10-01 14:44:22,835 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:44:26,301 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:44:26,302 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1540.9%, Memory: 4.866997135772186e-05%
+2024-10-01 14:44:26,304 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:44:29,727 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:44:29,728 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1561.1%, Memory: 4.866997135772186e-05%
+2024-10-01 14:44:29,729 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:44:33,147 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:44:33,149 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1569.8%, Memory: 4.866997135772186e-05%
+2024-10-01 14:44:33,150 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:44:36,585 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:44:36,586 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1568.0%, Memory: 4.866997135772186e-05%
+2024-10-01 14:44:36,588 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:44:40,256 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:44:40,257 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1555.7%, Memory: 4.866997135772186e-05%
+2024-10-01 14:44:40,258 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:44:43,898 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:44:43,899 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1549.7%, Memory: 4.866997135772186e-05%
+2024-10-01 14:44:43,900 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:44:47,516 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:44:47,517 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1559.5%, Memory: 4.866997135772186e-05%
+2024-10-01 14:44:47,519 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:44:50,950 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:44:50,951 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1543.1%, Memory: 4.866997135772186e-05%
+2024-10-01 14:44:50,953 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:44:54,360 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:44:54,363 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1573.9%, Memory: 4.866997135772186e-05%
+2024-10-01 14:44:54,364 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:44:57,995 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:44:57,997 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1548.3%, Memory: 4.866997135772186e-05%
+2024-10-01 14:44:57,998 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:45:01,449 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:45:01,451 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1561.2%, Memory: 4.866997135772186e-05%
+2024-10-01 14:45:01,452 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:45:04,974 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:45:04,975 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1573.4%, Memory: 4.866997135772186e-05%
+2024-10-01 14:45:04,977 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:45:08,481 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:45:08,482 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1556.3%, Memory: 4.866997135772186e-05%
+2024-10-01 14:45:08,483 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:45:12,021 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:45:12,023 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1566.1%, Memory: 4.866997135772186e-05%
+2024-10-01 14:45:12,024 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:45:15,572 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:45:15,574 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1553.7%, Memory: 4.866997135772186e-05%
+2024-10-01 14:45:15,575 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:45:19,076 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:45:19,078 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1536.5%, Memory: 4.866997135772186e-05%
+2024-10-01 14:45:19,080 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:45:22,579 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:45:22,580 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1553.1%, Memory: 4.866997135772186e-05%
+2024-10-01 14:45:22,581 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:45:26,075 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:45:26,077 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1552.7%, Memory: 4.866997135772186e-05%
+2024-10-01 14:45:26,078 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:45:29,608 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:45:29,609 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1552.7%, Memory: 4.866997135772186e-05%
+2024-10-01 14:45:29,612 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:45:33,114 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:45:33,116 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1557.2%, Memory: 4.866997135772186e-05%
+2024-10-01 14:45:33,119 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:45:36,648 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:45:36,649 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1521.6%, Memory: 4.866997135772186e-05%
+2024-10-01 14:45:36,650 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:45:40,118 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:45:40,120 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1555.9%, Memory: 4.866997135772186e-05%
+2024-10-01 14:45:40,121 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:45:43,586 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:45:43,588 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1563.9%, Memory: 4.866997135772186e-05%
+2024-10-01 14:45:43,589 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:45:47,128 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:45:47,130 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1553.5%, Memory: 4.866997135772186e-05%
+2024-10-01 14:45:47,132 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:45:50,595 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:45:50,597 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1549.3%, Memory: 4.866997135772186e-05%
+2024-10-01 14:45:50,599 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:45:54,045 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:45:54,046 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1566.6%, Memory: 4.866997135772186e-05%
+2024-10-01 14:45:54,048 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:45:57,649 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:45:57,652 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1540.2%, Memory: 4.866997135772186e-05%
+2024-10-01 14:45:57,654 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:46:01,136 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:46:01,138 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1541.7%, Memory: 4.866997135772186e-05%
+2024-10-01 14:46:01,139 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:46:04,765 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:46:04,766 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1561.6%, Memory: 4.866997135772186e-05%
+2024-10-01 14:46:04,767 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:46:08,314 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:46:08,315 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1544.8%, Memory: 4.866997135772186e-05%
+2024-10-01 14:46:08,316 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:46:11,948 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:46:11,950 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1548.0%, Memory: 4.866997135772186e-05%
+2024-10-01 14:46:11,952 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:46:15,473 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:46:15,475 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1550.4%, Memory: 4.866997135772186e-05%
+2024-10-01 14:46:15,476 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:46:18,939 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:46:18,941 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1536.8%, Memory: 4.866997135772186e-05%
+2024-10-01 14:46:18,942 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:46:22,451 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:46:22,453 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1562.5%, Memory: 4.866997135772186e-05%
+2024-10-01 14:46:22,454 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:46:25,997 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:46:25,998 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1542.1%, Memory: 4.866997135772186e-05%
+2024-10-01 14:46:25,999 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:46:29,508 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:46:29,510 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1563.8%, Memory: 4.866997135772186e-05%
+2024-10-01 14:46:29,511 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:46:33,046 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:46:33,047 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1559.8%, Memory: 4.866997135772186e-05%
+2024-10-01 14:46:33,049 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:46:36,518 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:46:36,519 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1555.4%, Memory: 4.866997135772186e-05%
+2024-10-01 14:46:36,520 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:46:40,019 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:46:40,021 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1554.9%, Memory: 4.866997135772186e-05%
+2024-10-01 14:46:40,022 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:46:43,488 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:46:43,490 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1562.9%, Memory: 4.866997135772186e-05%
+2024-10-01 14:46:43,491 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:46:46,976 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:46:46,977 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1574.7%, Memory: 4.866997135772186e-05%
+2024-10-01 14:46:46,979 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:46:50,449 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:46:50,451 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1561.2%, Memory: 4.866997135772186e-05%
+2024-10-01 14:46:50,452 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:46:53,929 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:46:53,930 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1557.1%, Memory: 4.866997135772186e-05%
+2024-10-01 14:46:53,931 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:46:57,434 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:46:57,435 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1568.8%, Memory: 4.866997135772186e-05%
+2024-10-01 14:46:57,437 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:47:00,908 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:47:00,910 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1556.7%, Memory: 4.866997135772186e-05%
+2024-10-01 14:47:00,911 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:47:04,373 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:47:04,375 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1550.8%, Memory: 4.866997135772186e-05%
+2024-10-01 14:47:04,376 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:47:07,890 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:47:07,892 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1563.4%, Memory: 4.866997135772186e-05%
+2024-10-01 14:47:07,893 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:47:11,357 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:47:11,359 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1563.8%, Memory: 4.866997135772186e-05%
+2024-10-01 14:47:11,360 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:47:14,838 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:47:14,840 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1569.7%, Memory: 4.866997135772186e-05%
+2024-10-01 14:47:14,841 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:47:18,351 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:47:18,352 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1546.4%, Memory: 4.866997135772186e-05%
+2024-10-01 14:47:18,353 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:47:21,793 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:47:21,795 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1556.7%, Memory: 4.866997135772186e-05%
+2024-10-01 14:47:21,797 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:47:25,301 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:47:25,303 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1563.4%, Memory: 4.866997135772186e-05%
+2024-10-01 14:47:25,305 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:47:28,781 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:47:28,782 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1554.9%, Memory: 4.866997135772186e-05%
+2024-10-01 14:47:28,784 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:47:32,258 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:47:32,260 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1568.4%, Memory: 4.866997135772186e-05%
+2024-10-01 14:47:32,261 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:47:35,729 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:47:35,731 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1563.4%, Memory: 4.866997135772186e-05%
+2024-10-01 14:47:35,740 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:47:39,229 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:47:39,231 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1554.0%, Memory: 4.866997135772186e-05%
+2024-10-01 14:47:39,232 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:47:42,693 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:47:42,694 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1576.4%, Memory: 4.866997135772186e-05%
+2024-10-01 14:47:42,695 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:47:46,158 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:47:46,159 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1566.6%, Memory: 4.866997135772186e-05%
+2024-10-01 14:47:46,160 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:47:49,617 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:47:49,619 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1558.4%, Memory: 4.866997135772186e-05%
+2024-10-01 14:47:49,620 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:47:53,069 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:47:53,070 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1567.0%, Memory: 4.866997135772186e-05%
+2024-10-01 14:47:53,072 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:47:56,538 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:47:56,540 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1560.7%, Memory: 4.866997135772186e-05%
+2024-10-01 14:47:56,542 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:47:59,975 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:47:59,976 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1553.5%, Memory: 4.866997135772186e-05%
+2024-10-01 14:47:59,978 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:48:03,424 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:48:03,425 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1557.0%, Memory: 4.866997135772186e-05%
+2024-10-01 14:48:03,427 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:48:06,910 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:48:06,911 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1567.9%, Memory: 4.866997135772186e-05%
+2024-10-01 14:48:06,913 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:48:10,380 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:48:10,382 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1548.1%, Memory: 4.866997135772186e-05%
+2024-10-01 14:48:10,383 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:48:13,822 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:48:13,824 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1560.7%, Memory: 4.866997135772186e-05%
+2024-10-01 14:48:13,826 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:48:17,274 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:48:17,275 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1571.6%, Memory: 4.866997135772186e-05%
+2024-10-01 14:48:17,276 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:48:20,798 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:48:20,799 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1569.3%, Memory: 4.866997135772186e-05%
+2024-10-01 14:48:20,801 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:48:24,247 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:48:24,249 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1551.0%, Memory: 4.866997135772186e-05%
+2024-10-01 14:48:24,250 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:48:27,777 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:48:27,779 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1560.2%, Memory: 4.866997135772186e-05%
+2024-10-01 14:48:27,780 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:48:31,280 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:48:31,282 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1540.9%, Memory: 4.866997135772186e-05%
+2024-10-01 14:48:31,283 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:48:34,913 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:48:34,916 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1562.9%, Memory: 4.866997135772186e-05%
+2024-10-01 14:48:34,917 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:48:38,499 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:48:38,500 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1556.5%, Memory: 4.866997135772186e-05%
+2024-10-01 14:48:38,503 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:48:42,113 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:48:42,116 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1542.5%, Memory: 4.866997135772186e-05%
+2024-10-01 14:48:42,117 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:48:45,751 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:48:45,753 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1548.2%, Memory: 4.866997135772186e-05%
+2024-10-01 14:48:45,755 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:48:49,287 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:48:49,289 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1562.1%, Memory: 4.866997135772186e-05%
+2024-10-01 14:48:49,290 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:48:52,852 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:48:52,854 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1551.5%, Memory: 4.866997135772186e-05%
+2024-10-01 14:48:52,856 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:48:56,416 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:48:56,417 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1567.8%, Memory: 4.866997135772186e-05%
+2024-10-01 14:48:56,418 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:48:59,933 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:48:59,935 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1553.3%, Memory: 4.866997135772186e-05%
+2024-10-01 14:48:59,936 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:49:03,406 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:49:03,408 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1550.9%, Memory: 4.866997135772186e-05%
+2024-10-01 14:49:03,409 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:49:06,959 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:49:06,960 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1567.9%, Memory: 4.866997135772186e-05%
+2024-10-01 14:49:06,962 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:49:10,422 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:49:10,424 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1537.5%, Memory: 4.866997135772186e-05%
+2024-10-01 14:49:10,425 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:49:13,878 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:49:13,879 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1566.6%, Memory: 4.866997135772186e-05%
+2024-10-01 14:49:13,880 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:49:17,357 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:49:17,358 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1560.7%, Memory: 4.866997135772186e-05%
+2024-10-01 14:49:17,360 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:49:20,795 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:49:20,797 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1560.2%, Memory: 4.866997135772186e-05%
+2024-10-01 14:49:20,799 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:49:24,246 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:49:24,249 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1566.6%, Memory: 4.866997135772186e-05%
+2024-10-01 14:49:24,250 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:49:27,741 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:49:27,743 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1559.3%, Memory: 4.866997135772186e-05%
+2024-10-01 14:49:27,744 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:49:31,196 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:49:31,199 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1563.4%, Memory: 4.866997135772186e-05%
+2024-10-01 14:49:31,200 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:49:34,658 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:49:34,660 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1555.3%, Memory: 4.866997135772186e-05%
+2024-10-01 14:49:34,661 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:49:38,174 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:49:38,176 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1554.4%, Memory: 4.866997135772186e-05%
+2024-10-01 14:49:38,178 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:49:41,685 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:49:41,686 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1555.4%, Memory: 4.866997135772186e-05%
+2024-10-01 14:49:41,687 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:49:45,191 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:49:45,193 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1558.9%, Memory: 4.866997135772186e-05%
+2024-10-01 14:49:45,195 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:49:48,650 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:49:48,652 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1550.1%, Memory: 4.866997135772186e-05%
+2024-10-01 14:49:48,653 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:49:52,111 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:49:52,113 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1564.8%, Memory: 4.866997135772186e-05%
+2024-10-01 14:49:52,115 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:49:55,634 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:49:55,636 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1564.3%, Memory: 4.866997135772186e-05%
+2024-10-01 14:49:55,636 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:49:59,181 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:49:59,181 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1540.5%, Memory: 4.866997135772186e-05%
+2024-10-01 14:49:59,183 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:50:02,828 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:50:02,831 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1558.5%, Memory: 4.866997135772186e-05%
+2024-10-01 14:50:02,833 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:50:06,784 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:50:06,787 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1529.2%, Memory: 4.866997135772186e-05%
+2024-10-01 14:50:06,788 - [PROCESS MONITOR] - ****************************************
+2024-10-01 14:50:09,805 - [PROCESS MONITOR] - ***** Suspicious Processes Detected *****
+2024-10-01 14:50:09,806 - [PROCESS MONITOR] - PID: 0, Name: System Idle Process, CPU: 1552.2%, Memory: 4.866997135772186e-05%
+2024-10-01 14:50:09,807 - [PROCESS MONITOR] - ****************************************
